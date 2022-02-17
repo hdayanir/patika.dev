@@ -1,0 +1,15 @@
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\bin\Debug\net6.0\array_class_methods.exe
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\bin\Debug\net6.0\array_class_methods.deps.json
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\bin\Debug\net6.0\array_class_methods.runtimeconfig.json
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\bin\Debug\net6.0\array_class_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\bin\Debug\net6.0\array_class_methods.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.csproj.AssemblyReference.cache
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.AssemblyInfoInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.AssemblyInfo.cs
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\refint\array_class_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\array_class_methods.genruntimeconfig.cache
+C:\Users\hsynd\Desktop\C#\pratikler\array_class_methods\obj\Debug\net6.0\ref\array_class_methods.dll
