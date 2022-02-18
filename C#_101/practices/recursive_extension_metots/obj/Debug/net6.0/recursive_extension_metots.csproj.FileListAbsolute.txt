@@ -1,0 +1,15 @@
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\bin\Debug\net6.0\recursive_extension_metots.exe
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\bin\Debug\net6.0\recursive_extension_metots.deps.json
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\bin\Debug\net6.0\recursive_extension_metots.runtimeconfig.json
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\bin\Debug\net6.0\recursive_extension_metots.dll
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\bin\Debug\net6.0\recursive_extension_metots.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.csproj.AssemblyReference.cache
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.AssemblyInfoInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.AssemblyInfo.cs
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.dll
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\refint\recursive_extension_metots.dll
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\recursive_extension_metots.genruntimeconfig.cache
+C:\Users\hsynd\Desktop\C#\pratikler\recursive_extension_metots\obj\Debug\net6.0\ref\recursive_extension_metots.dll
