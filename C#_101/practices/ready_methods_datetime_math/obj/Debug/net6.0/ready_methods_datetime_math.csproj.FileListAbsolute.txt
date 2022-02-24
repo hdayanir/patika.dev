@@ -1,0 +1,15 @@
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\bin\Debug\net6.0\ready_methods_datetime_math.exe
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\bin\Debug\net6.0\ready_methods_datetime_math.deps.json
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\bin\Debug\net6.0\ready_methods_datetime_math.runtimeconfig.json
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\bin\Debug\net6.0\ready_methods_datetime_math.dll
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\bin\Debug\net6.0\ready_methods_datetime_math.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.csproj.AssemblyReference.cache
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.AssemblyInfoInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.AssemblyInfo.cs
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.dll
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\refint\ready_methods_datetime_math.dll
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ready_methods_datetime_math.genruntimeconfig.cache
+C:\Users\hsynd\Desktop\C#\pratikler\ready_methods_datetime_math\obj\Debug\net6.0\ref\ready_methods_datetime_math.dll
