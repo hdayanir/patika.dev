@@ -1,0 +1,16 @@
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\constructor_methods.exe
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\constructor_methods.deps.json
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\constructor_methods.runtimeconfig.json
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\constructor_methods.runtimeconfig.dev.json
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\constructor_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\ref\constructor_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\bin\Debug\net5.0\constructor_methods.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.csproj.AssemblyReference.cache
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.AssemblyInfoInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.AssemblyInfo.cs
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\ref\constructor_methods.dll
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\constructor_methods\obj\Debug\net5.0\constructor_methods.genruntimeconfig.cache
