@@ -1,0 +1,16 @@
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\static_class_and_members.exe
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\static_class_and_members.deps.json
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\static_class_and_members.runtimeconfig.json
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\static_class_and_members.runtimeconfig.dev.json
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\static_class_and_members.dll
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\ref\static_class_and_members.dll
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\bin\Debug\net5.0\static_class_and_members.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.csproj.AssemblyReference.cache
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.AssemblyInfoInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.AssemblyInfo.cs
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.dll
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\ref\static_class_and_members.dll
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.pdb
+C:\Users\hsynd\Desktop\C#\pratikler\static_class_and_members\obj\Debug\net5.0\static_class_and_members.genruntimeconfig.cache
