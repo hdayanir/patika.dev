@@ -14,7 +14,7 @@ namespace ConsolePhoneDirectoryApplication
            bool phoneNumberCheck=false;
            string phonenumber=string.Empty;
            bool chooseMenuCheck=false;
-           bool flag=true;
+           bool flag=true; 
            
            while(situationProgram)
            {
