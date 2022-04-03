@@ -1,0 +1,16 @@
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\todoApp.exe
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\todoApp.deps.json
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\todoApp.runtimeconfig.json
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\todoApp.runtimeconfig.dev.json
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\todoApp.dll
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\ref\todoApp.dll
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\bin\Debug\net5.0\todoApp.pdb
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.csproj.AssemblyReference.cache
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.AssemblyInfoInputs.cache
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.AssemblyInfo.cs
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.dll
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\ref\todoApp.dll
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.pdb
+C:\Users\hsynd\Desktop\Path-C-Sarp-101-main\TodoAppCSharpConsolePatika-master\kodluyoruz-csharp-main\todoApp\obj\Debug\net5.0\todoApp.genruntimeconfig.cache
