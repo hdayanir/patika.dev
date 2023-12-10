@@ -1,0 +1,7 @@
+C:\project\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe.config
+C:\project\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe
+C:\project\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.pdb
+C:\project\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csproj.AssemblyReference.cache
+C:\project\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\project\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.exe
+C:\project\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.pdb
